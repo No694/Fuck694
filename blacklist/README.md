@@ -24,5 +24,5 @@
 ----
 |所在城市|学校名字|施行时间|制度描述|证据内容|
 |:---:|:---:|:---:|:---:|:---:|
-|上海|[上海民办和衷中学](https://school.bsedu.org.cn/shmbhzzx/)|2022-10-08|增加晚自习至每天九点（请注意：本校学生回家时间基本都在40分钟以上，现在作业都要到凌晨完成）|[证据列表](https://github.com/No694/Fuck694/tree/main/blacklist/shmbhzxx)|
+|上海|[上海民办和衷中学](https://school.bsedu.org.cn/shmbhzzx/)|2022-10-08|增加晚自习至每天九点（请注意：本校学生回家时间基本都在40分钟以上，现在作业都要到凌晨完成）|[证据列表](https://github.com/No694/Fuck694/tree/main/blacklist/shmbhzzx)|
 |山东|淄博中学|2023-01-??|寒假内安排网课，提前开学实行694学习制度|[证据列表](https://github.com/No694/Fuck694/tree/main/blacklist/sdzbzx)|
